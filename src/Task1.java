@@ -1,3 +1,11 @@
+/**
+ * This method returns the smallest number from an array.
+ * It iterates through the array using a for loop.
+ * Time complexity: O(n), where n is the length of the input array.
+ * @param arr The array of integers where we need to find the smallest.
+ * @return The smallest integer from the array.
+ */
+
 import java.util.Scanner;
 
 public class Task1 {
