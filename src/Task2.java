@@ -1,3 +1,12 @@
+/**
+ * This method returns the average of numbers in an array.
+ * It iterates through the array using a for loop to calculate the sum,
+ * then divides the sum by the length of the array to find the average.
+ * Time complexity: O(n), where n is the length of the input array.
+ * @param arr The array of integers for which we need to calculate the average.
+ * @return The average of the numbers in the array.
+ */
+
 import java.util.Scanner;
 
 public class Task2 {
