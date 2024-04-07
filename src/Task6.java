@@ -15,11 +15,9 @@ public class Task6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Reading the inputs
         int a = scanner.nextInt();
         int n = scanner.nextInt();
 
-        // Computing a^n
         System.out.println(power(a, n));
 
         scanner.close();
